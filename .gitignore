@@ -1,0 +1,8 @@
+# Dependency directories
+client/node_modules
+server/node_modules
+
+#
+npm-debug.log
+client/package-lock.json
+server/package-lock.json
